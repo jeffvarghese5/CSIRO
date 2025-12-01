@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "EnableDeveloperExceptions": "True",
+  "ConnectionStrings": { "DBConnection": "Server=DESKTOP-7I7SJA7;Database=MyDB;Uid=sa;Password=Password1;Encrypt=False" }
+  //"ConnectionStrings": { "DBConnection": "Server=DESKTOP-TBTL3B0\\SQLEXPRESS;Database=News;Integrated Security=True;Encrypt=False" }
+
+}
